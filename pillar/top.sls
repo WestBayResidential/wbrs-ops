@@ -1,0 +1,5 @@
+base:
+  '*':
+    - settings
+    - salt
+    - users
